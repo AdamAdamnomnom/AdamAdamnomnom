@@ -1,43 +1,43 @@
 <div align="center">
 
 # Cześć, jestem Adam 👋
-### Informatyka Stosowana @ Politechnika Krakowska 🎓
-### Embedded Systems & Python Developer | Cyberpunk & Tech Maker 🤖
+### Student Informatyki Stosowanej @ Politechnika Krakowska
+### Software & Embedded Developer | C++ • Python • AI-assisted Workflow
 
-[![Politechnika Krakowska](https://img.shields.io/badge/Politechnika%20Krakowska-Informatyka%20Stosowana-002D62?style=for-the-badge&logo=academic-tree&logoColor=white)](https://pk.edu.pl)
-[![Cyberpunk Enthusiast](https://img.shields.io/badge/Vibe-Cyberpunk%20%2F%20High%20Tech%20Low%20Level-FCEE09?style=for-the-badge&logoColor=black&labelColor=000000)](https://github.com/AdamAdamnomnom)
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-00F0FF?style=for-the-badge&labelColor=000000)]()
+[![Politechnika Krakowska](https://img.shields.io/badge/Politechnika%20Krakowska-Informatyka%20Stosowana-002D62?style=flat-square&logo=academic-tree&logoColor=white)](https://pk.edu.pl)
+[![GitHub](https://img.shields.io/badge/GitHub-AdamAdamnomnom-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AdamAdamnomnom)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square)]()
 
 <br/>
 
-> *„High tech, low level. Fascynuje mnie połączenie surowej elektroniki, mikrokontrolerów i Linuksa z klimatem tech-noir — tworzę urządzenia i oprogramowanie, które żyją poza monitorem.”*
+> *Praktyczne podejście do programowania: od systemów wbudowanych i automatyki, po aplikacje użytkowe oraz nowoczesne narzędzia AI przyspieszające wytwarzanie oprogramowania.*
 
 </div>
 
 ---
 
-### 🚀 O mnie (Story & Bio)
+### 🚀 O mnie
 
-Studiuję **Informatykę Stosowaną na Politechnice Krakowskiej** i na co dzień balansuję między światem software'u a sprzętu. Nie znoszę nudnego kodu i „programowania do szuflady” — najbardziej jara mnie budowanie namacalnych projektów, gdzie kod bezpośrednio kontroluje napięcia, przekaźniki, silniki, dźwięk i ekrany dotykowe.
+Studiuję **Informatykę Stosowaną na Politechnice Krakowskiej**. Skupiam się na tworzeniu działających, praktycznych rozwiązań łączących oprogramowanie ze sprzętem oraz na efektywnym wykorzystaniu nowoczesnych technologii w codziennej pracy:
 
-* 🎓 **Informatyka Stosowana (Politechnika Krakowska):** Solidne zaplecze algorytmiczne, inżynieria systemowa, sieci komputerowe i architektura komputerów przeniesione w praktykę.
-* 🤖 **Cyberpunk & Tech-Noir Geek:** Wielki fan uniwersum Cyberpunka (gry, książki, anime, stylistyka). Fascynują mnie interfejsy człowiek-maszyna, wbudowane terminale, sensoryka, neony i klimat urządzeń działających niezawodnie w trybie 24/7.
-* ⚡ **Hardware & Mikrokontrolery:** Gdy nie siedzę w kodzie, trzymam w ręku lutownicę lub oscyloskop. Projektuję sterowniki przemysłowe na mikrokontrolerach **AVR (ATmega328P)** oraz układach **ESP8266**, tworząc autorskie biblioteki C++ odwzorowujące logikę PLC (nieblokujące timery, pamięć EEPROM, obsługa przerwań E-STOP).
-* 🐧 **Hacking Linuksa & Dedykowane Urządzenia (Appliances):** Przerabiam terminale cienkie (**Thin Clients**) na autonomiczne urządzenia kioskowe oparte o minimalistycznego Debiana, sesję X11, okna PyQt6, manipulację oknami w `python-xlib`, protokół CDP (Chrome DevTools Protocol) oraz cyfrową obróbkę dźwięku (ALSA/LADSPA DSP).
-* 💡 **Eksperymenty i nowe projekty:** Ciągle coś dłubię — od prototypów automatyki domowej i warsztatowej, przez customowe peryferia, po optymalizację środowisk linuksowych pod specyficzny sprzęt.
+* 🎓 **Politechnika Krakowska:** Studia na kierunku Informatyka Stosowana dają mi solidne podstawy inżynierskie — od algorytmiki i struktur danych, przez systemy operacyjne, po architekturę komputerów.
+* ⚡ **Hardware & Mikrokontrolery:** Lubię projekty, które wchodzą w interakcję ze światem fizycznym. Buduję sterowniki maszynowe i automatykę (C++, Arduino, ATmega328P, ESP8266) oraz projektuję własne biblioteki sterowania (timery nieblokujące, obsługa pamięci EEPROM, przerwania awaryjne E-STOP).
+* 🐍 **Python & Aplikacje Systemowe:** Tworzę aplikacje okienkowe (PyQt6), systemy kioskowe oraz narzędzia automatyzujące zadania w środowisku Linux/Windows.
+* 🤖 **Praktyczne wykorzystanie AI:** Traktuję sztuczną inteligencję jako dźwignię produktywności. Na co dzień wykorzystuję narzędzia AI (modele LLM, asystentów programowania, automatyzację promptów i analizy) do szybkiego prototypowania, rozwiązywania nietypowych problemów technicznych, pisania testów i badania nowych bibliotek — zawsze ze zrozumieniem fundamentów kodu, a nie bezmyślnym kopiowaniem.
+* 🎮 **Prywatnie:** Fan technologii, dobrego sci-fi (w tym uniwersum Cyberpunka) oraz majsterkowania przy customowych projektach.
 
 ---
 
-### 🛠️ Technologie i Skrzynka z Narzędziami
+### 🛠️ Technologie i Narzędzia
 
 <div align="center">
 
-| Kategoria | Technologie & Narzędzia |
+| Kategoria | Technologie |
 |---|---|
-| **Języki** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
-| **Embedded & Sprzęt** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white) ![ATmega328P](https://img.shields.io/badge/ATmega328P-Microchip-blue?style=flat-square) ![PLC](https://img.shields.io/badge/PLC-Ladder%20Logic-darkgreen?style=flat-square) ![UART/EEPROM](https://img.shields.io/badge/Hardware-UART%20%7C%20EEPROM%20%7C%20GPIO-grey?style=flat-square) |
-| **Systemy & Linux** | ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![X11 / Openbox](https://img.shields.io/badge/X11%20%2F%20Openbox-555555?style=flat-square) ![PulseAudio / ALSA](https://img.shields.io/badge/Audio-PulseAudio%20%2B%20ALSA%20%2B%20LADSPA-orange?style=flat-square) |
-| **Frameworki & Narzędzia** | ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white) ![CDP](https://img.shields.io/badge/CDP-Chrome%20DevTools%20Protocol-4285F4?style=flat-square&logo=google-chrome&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Języki programowania** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **Embedded & Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ATmega328P](https://img.shields.io/badge/ATmega328P-Microchip-blue?style=flat-square) ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white) ![PLC](https://img.shields.io/badge/PLC-Ladder%20Logic-darkgreen?style=flat-square) ![UART](https://img.shields.io/badge/Hardware-UART%20%7C%20EEPROM%20%7C%20GPIO-grey?style=flat-square) |
+| **Systemy & Środowisko** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![X11](https://img.shields.io/badge/X11%20%2F%20Openbox-555555?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Frameworki & Metodyka** | ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white) ![AI-Assisted Dev](https://img.shields.io/badge/Workflow-AI--Assisted%20Development-8A2BE2?style=flat-square&logo=openai&logoColor=white) ![CDP](https://img.shields.io/badge/CDP-DevTools%20Protocol-4285F4?style=flat-square) |
 
 </div>
 
@@ -51,26 +51,26 @@ Studiuję **Informatykę Stosowaną na Politechnice Krakowskiej** i na co dzień
       <h3 align="center">⚡ <a href="https://github.com/AdamAdamnomnom/vena3-plc">vena3-plc</a></h3>
       <p align="center"><b>Przemysłowy Sterownik PLC (C++ / ATmega328 + ESP8266)</b></p>
       <ul>
-        <li>Zbudowany od zera fizyczny sterownik PLC do automatyzacji procesów przemysłowych i maszyn.</li>
-        <li>Własna biblioteka obiektowa w C++ odwzorowująca przemysłową logikę sterowników PLC (markery pamięci, liczniki cykli, timery oparte o <code>millis()</code>).</li>
-        <li>Sprzętowy przycisk zatrzymania awaryjnego (E-STOP) na dedykowanych przerwaniach mikroprocesora.</li>
-        <li>Dwukierunkowa komunikacja szeregowa UART oraz pamięć nieulotna EEPROM.</li>
+        <li>Dedykowany sterownik PLC do automatyzacji procesów maszynowych.</li>
+        <li>Własna biblioteka C++ implementująca logikę przemysłową (markery, liczniki cykli, nieblokujące timery oparte o <code>millis()</code>).</li>
+        <li>Sprzętowy przycisk awaryjny (E-STOP) na przerwaniach mikroprocesora.</li>
+        <li>Komunikacja szeregowa UART oraz pamięć nieulotna EEPROM.</li>
       </ul>
       <p align="center">
-        <code>C++</code> • <code>Arduino</code> • <code>ESP8266</code> • <code>ATmega328P</code> • <code>Industrial Automation</code>
+        <code>C++</code> • <code>Arduino</code> • <code>ATmega328P</code> • <code>ESP8266</code> • <code>PLC</code>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎵 <a href="https://github.com/AdamAdamnomnom/VenaV-speaker">VenaV-speaker</a></h3>
       <p align="center"><b>Embedded Audio/Video Kiosk System (Python / PyQt6 / Linux)</b></p>
       <ul>
-        <li>Autonomiczny system kioskowy na dotykowy terminal cienki Fujitsu Futro S930 (Debian, sesja X11, Openbox bez środowiska desktopowego).</li>
-        <li>Interfejs AlwaysOnTop w PyQt6 integrujący odtwarzacze w dedykowanych procesach Chromium.</li>
-        <li>Sterowanie przez protokół CDP (Chrome DevTools Protocol) oraz bezkolizyjne przesuwanie okien poza ekran (<code>stow</code>) w <code>python-xlib</code>.</li>
-        <li>Wirtualna klawiatura wstrzykująca kody klawiszy przez X11 XTest, mikser ALSA i cyfrowy procesor efektów LADSPA (PulseAudio).</li>
+        <li>Autonomiczny system multimedialny na dotykowy terminal cienki Fujitsu Futro S930 (Debian, sesja X11).</li>
+        <li>Nakładka AlwaysOnTop w PyQt6 integrująca odtwarzacze webowe w dedykowanych procesach Chromium.</li>
+        <li>Sterowanie przez protokół CDP oraz przesuwanie okien poza ekran (<code>stow</code>) w <code>python-xlib</code>.</li>
+        <li>Sprzętowa regulacja głośności ALSA, korekcja dźwięku LADSPA DSP i automatyczny watchdog systemowy.</li>
       </ul>
       <p align="center">
-        <code>Python 3</code> • <code>PyQt6</code> • <code>Linux Appliance</code> • <code>X11</code> • <code>Audio DSP</code>
+        <code>Python 3</code> • <code>PyQt6</code> • <code>Linux</code> • <code>X11</code> • <code>PulseAudio/ALSA</code>
       </p>
     </td>
   </tr>
@@ -89,13 +89,9 @@ Studiuję **Informatykę Stosowaną na Politechnice Krakowskiej** i na co dzień
 
 ### 📬 Kontakt
 
-Jestem otwarty na ciekawe wyzwania inżynieryjne, praktyki, staże oraz propozycje współpracy przy projektach **Embedded / IoT**, **aplikacjach w Pythonie/C++** i **automatyce przemysłowej**.
+Jestem otwarty na ciekawe wyzwania inżynieryjne, praktyki oraz propozycje współpracy:
 
-* 🎓 **Uczelnia:** Politechnika Krakowska (Wydział Informatyki i Telekomunikacji)
+* 🎓 **Uczelnia:** Politechnika Krakowska
 * 💻 **GitHub:** [@AdamAdamnomnom](https://github.com/AdamAdamnomnom)
-* 💼 **LinkedIn:** *(dostępny na życzenie / w CV)*
+* 💼 **LinkedIn:** *(dostępny w CV / na życzenie)*
 * ✉️ **E-mail:** *(dostępny w CV)*
-
-<div align="center">
-  <sub>⚡ <i>"Wake up, Samurai. We have code to write."</i> ⚡</sub>
-</div>
